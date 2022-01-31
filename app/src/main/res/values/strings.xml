@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Love language</string>
+    <string name="family_text1">What do you love most about your parent?</string>
+    <string name="family_image">family_image</string>
+    <string name="individual_image">individual image</string>
+    <string name="couple_image">couple_image</string>
+    <string name="past_and_future">past and future</string>
+    <string name="dialog_text">IOIOPIOIOPIOIOPIOIOP</string>
+</resources>
